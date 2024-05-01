@@ -1,0 +1,1 @@
+Simple project to study machine learning using Python
